@@ -1,0 +1,4 @@
+magnetic coil current:9100
+magnetic coil radius:0.076
+current:1000
+start index:140001
